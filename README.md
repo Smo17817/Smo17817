@@ -4,6 +4,11 @@
 - 📫 How to reach me **simone.dassisi99@@gmail.com**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/simone-dassisi)
+[![Gmail](https://img.shields.io/badge/Gmail--red?style=social&logo=gmail)](mailto:simone.dassisi99@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram--orange?style=social&logo=instagram)](https://www.instagram.com/simonedassisi)
+
+
+
 <p align="left">
 </p>
 
