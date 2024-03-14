@@ -1,13 +1,11 @@
-<h1 align="center">Hello there! I'm Simone D'Assisi :it:</h1>
+<h1 align="center">👋Hello there! I'm Simone D'Assisi</h1>
 <h3 align="center">A passionate Computer Science student about to graduate @Univeristà degli Studi di Salerno</h3>
 
-- 📖 Always learning and practicing to improve my skills.
-- 
+- 📖 Always learning and practicing to improve myself.
+- 🔍 Curious, dedicated and restless.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/simone-dassisi)
 [![Gmail](https://img.shields.io/badge/Gmail--red?style=social&logo=gmail)](mailto:simone.dassisi99@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram--orange?style=social&logo=instagram)](https://www.instagram.com/simonedassisi)
-
-
 
 <p align="left">
 </p>
