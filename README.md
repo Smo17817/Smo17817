@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! I'm Simone D'Assisi🇮🇹</h1>
+<h1 align="center">Hello there! I'm Simone D'Assisi :it:</h1>
 <h3 align="center">A passionate Computer Science student about to graduate @Univeristà degli Studi di Salerno</h3>
 
 - 📖 Always learning and practicing to improve my skills.
