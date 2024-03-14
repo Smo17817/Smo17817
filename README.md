@@ -1,9 +1,9 @@
 <h1 align="center">Hello there! I'm Simone D'Assisi</h1>
-<h3 align="center">A passionate Computer Science student about to graduate</h3>
+<h3 align="center">A passionate Computer Science student about to graduate @Univeristà degli Studi di Salerno</h3>
 
 - 📫 How to reach me **simone.dassisi99@@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<i class="fa-brands fa-linkedin">https://www.linkedin.com/in/simone-dassisi/</i>
 <p align="left">
 </p>
 
