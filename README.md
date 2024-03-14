@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **simone.dassisi99@@gmail.com**
 
-<i class="fa-brands fa-linkedin">https://www.linkedin.com/in/simone-dassisi/</i>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 <p align="left">
 </p>
 
