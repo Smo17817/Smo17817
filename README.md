@@ -3,7 +3,7 @@
 <div> @Univeristà degli Studi di Salerno </div> </h3>
 <div align="center"> <a href="https://www.unisa.it"> <img src="https://github.com/Smo17817/Smo17817/assets/127348760/77285d15-e181-4f92-a8ba-f421728e1b6f" alt="UnisaLogo" width="80"/> </a> </div>
 
-
+## About Me
 - 📖 Always learning and striving to improve myself.
 - 🔍 Curious, dedicated, and hard working.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/simone-dassisi)
@@ -13,7 +13,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages:</h3>
+## Languages
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
