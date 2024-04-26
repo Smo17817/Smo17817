@@ -1,7 +1,7 @@
 <h1 align="center">👋Hello there! I'm Simone D'Assisi</h1>
 <h3 align="center">A passionate Computer Science student about to graduate 
 <div> @Univeristà degli Studi di Salerno </div> </h3>
-<div align="center"> <a href="https://www.unisa.it"> <img src="https://github.com/Smo17817/Smo17817/assets/127348760/77285d15-e181-4f92-a8ba-f421728e1b6f" alt="UnisaLogo" width="40"/> </a> </div>
+<div align="center"> <a href="https://www.unisa.it"> <img src="https://github.com/Smo17817/Smo17817/assets/127348760/77285d15-e181-4f92-a8ba-f421728e1b6f" alt="UnisaLogo" width="80"/> </a> </div>
 
 
 - 📖 Always learning and striving to improve myself.
