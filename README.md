@@ -31,8 +31,8 @@
 </p>
 
 ## My Projects 🛠️
-📍 I'm currently working on a Flutter App that automatically sends a message to a contact when you reach a certain location;
-📍 I'm working on creating 3D environments with Unity for an inclusive educational experience for students with ADHD with my University. 
+📍 I'm currently working on a Flutter App that automatically sends a message to a contact when you reach a certain location; <br>
+📍 I'm working on creating 3D environments with Unity for an inclusive educational experience for students with ADHD with my University. <br>
 
 ## My Stats 🔥
 <div>
