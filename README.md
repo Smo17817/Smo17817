@@ -30,7 +30,7 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/ </a>
 </p>
 
-### My Projects 🛠️
+## My Projects 🛠️
 - 📍I'm currently working on a Flutter App that automatically sends a message to a contact when you reach a certain location;
 - 📍I'm working on creating 3D environments with Unity for an inclusive educational experience for students with ADHD with my University. 
 
