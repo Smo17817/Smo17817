@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Shake" width="30"/>
-  Hello there! I'm Simone D'Assisi</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=530&height=30&lines=Hello+There!+I'm+Simone+D'Assisi" alt="Typing SVG" /></a>
 <h3 align="center">A passionate Computer Science student about to graduate 
 <div> @Univeristà degli Studi di Salerno </div> </h3>
 <div align="center"> <a href="https://www.unisa.it"> <img src="https://github.com/Smo17817/Smo17817/assets/127348760/77285d15-e181-4f92-a8ba-f421728e1b6f" alt="UnisaLogo" width="80"/> </a> </div>
