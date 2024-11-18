@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Shake" width="30"/>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=530&height=30&lines=Hello+There!+I'm+Simone+D'Assisi" alt="Typing SVG" /></a>
-<h3 align="center">A passionate Computer Science student about to graduate 
+<h3 align="center">Pursuing my Master's Degree in Data Science & Machine Learning
 <div> @Univeristà degli Studi di Salerno </div> </h3>
 <div align="center"> <a href="https://www.unisa.it"> <img src="https://github.com/Smo17817/Smo17817/assets/127348760/77285d15-e181-4f92-a8ba-f421728e1b6f" alt="UnisaLogo" width="80"/> </a> </div>
 
@@ -29,12 +29,15 @@
 ### Currently Learning: 
 <p align="left"> 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+
+
+###
 </p>
 
 ## My Projects 🛠️
-📍 I'm currently working on a Flutter App that automatically sends a message to a contact when you reach a certain location; <br>
-📍 I'm working on creating 3D environments with Unity for an inclusive educational experience for students with ADHD with my University. <br>
+📍 An AI-Based NPC in a 3D enviornment to help ADHD students complete tasks in an edugame called "La Bottega del Vasaio". <br>
 
 ## My Stats 🔥
 <div>
