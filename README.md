@@ -49,6 +49,5 @@
 ## My Stats 🔥
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smo17817&show_icons=true&locale=en&layout=compact&theme=github_dark&card_height=150" alt="smo17817" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Smo17817&theme=github-dark-blue&hide_border=true&card_height=150" alt="GitHub Streak" /></a>
 
 </div>
