@@ -10,6 +10,7 @@
 <div align="center"> <a href="https://www.unisa.it"> <img src="https://github.com/Smo17817/Smo17817/assets/127348760/77285d15-e181-4f92-a8ba-f421728e1b6f" alt="UnisaLogo" width="80"/> </a> </div>
 
 ## About Me 🙋
+- 🎓 Computer Science Graduate
 - 📖 Always learning and striving to improve myself.
 - 🔍 Curious, dedicated, and hard working.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/simone-dassisi)
