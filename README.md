@@ -13,6 +13,7 @@
 - 🎓 Computer Science Graduate
 - 📖 Always learning and striving to improve myself.
 - 🔍 Curious, dedicated, and hard working.
+- 🎸 Bass player since 2013.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/simone-dassisi)
 [![Gmail](https://img.shields.io/badge/Gmail--red?style=social&logo=gmail)](mailto:simone.dassisi99@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram--orange?style=social&logo=instagram)](https://www.instagram.com/simonedassisi)
