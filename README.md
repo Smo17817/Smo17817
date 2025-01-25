@@ -47,6 +47,7 @@
 ## My Projects 🛠️
 📍 An AI-Based NPC in a 3D enviornment to help ADHD students complete tasks in an edugame called "La Bottega del Vasaio". <br>
 📍 An e-shop for an artist with Spring and Angular. <br>
+📍 A model to recognize Phishing URLs (university project). <br>
 
 ## My Stats 🔥
 <div>
