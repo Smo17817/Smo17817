@@ -50,7 +50,14 @@
 📍 An ML model to recognize Phishing URLs (university project). <br>
 
 ## My Stats 🔥
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smo17817&show_icons=true&locale=en&layout=compact&theme=github_dark&card_height=150" alt="smo17817" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smo17817&exclude_repo=IS_FIA_Kawaii-Comix&show_icons=true&locale=en&layout=compact&theme=github_dark&card_height=150" alt="Top Langs" width="400"/>
 
-</div>
+  <!-- <img src="https://github-contributor-stats.vercel.app/api?username=smo17817&limit=5&theme=react&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats"/> -->
+</p>
+
+
+
+
+
+
