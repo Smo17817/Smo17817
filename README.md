@@ -8,29 +8,18 @@
   
 <h3 align="center">Pursuing a Master's Degree in Data Science & Machine Learning</h3>
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://www.unisa.it">
-          <img height="100" src="https://github.com/Smo17817/Smo17817/assets/127348760/77285d15-e181-4f92-a8ba-f421728e1b6f" alt="UnisaLogo" width="80"/>
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://www.ntnu.edu">
-          <img height="80" alt="NTNU Logo" src="https://github.com/user-attachments/assets/584024d2-fef4-4693-8010-ef4fe9dd4699" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <b>Università degli Studi di Salerno</b> <img align="center" src="https://flagcdn.com/it.svg" width="20" alt="Italy"/>
-      </td>
-      <td align="center">
-        <b>Norwegian University of Science and Technology</b> <img align="center" src="https://flagcdn.com/no.svg" width="20" alt="Norway"/>
-      </td>
-    </tr>
-  </table>
+<div align="center"> 
+  <a href="https://www.unisa.it"> 
+    <img align="center" height="50" src="https://github.com/Smo17817/Smo17817/assets/127348760/77285d15-e181-4f92-a8ba-f421728e1b6f" alt="UnisaLogo"/> 
+  </a> 
+  <b> Università degli Studi di Salerno </b>
+  <img align="center" src="https://flagcdn.com/it.svg" width="20" alt="Italy"/> 
+  &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.ntnu.edu">
+    <img align="center" height="40" alt="NTNU Logo" src="https://github.com/user-attachments/assets/584024d2-fef4-4693-8010-ef4fe9dd4699" />
+  </a>
+  <b> Norwegian University of Science and Technology </b> 
+  <img align="center" src="https://flagcdn.com/no.svg" width="20" alt="Norway"/>
 </div>
 
 ## About Me 🙋
