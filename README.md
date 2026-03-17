@@ -3,22 +3,35 @@
 </header>
 
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Shake" width="30"/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=530&height=30&lines=Hello+There!+I'm+Simone+D'Assisi" alt="Typing SVG" /></a>
-<h3 align="center">Pursuing a Master's Degree in Data Science & Machine Learning
-  <div> 🇮🇹 <b>Università degli Studi di Salerno</b> &nbsp;|&nbsp; 🇳🇴 <b>Norwegian University of Science and Technology</b> 
-  </div> 
-</h3>
-<div align="center"> 
-  <a href="https://www.unisa.it"> 
-    <img height="100" src="https://github.com/Smo17817/Smo17817/assets/127348760/77285d15-e181-4f92-a8ba-f421728e1b6f" alt="UnisaLogo" width="80"/> 
-  </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.ntnu.edu">
-    <img height="75" alt="Image" src="https://github.com/user-attachments/assets/2d681af3-cdd3-42a8-a3d0-53584b6b3ca5" style="background-color: white; padding: 5px; border-radius: 4px;" /> 
-  </a>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Shake" width="30"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=530&height=30&lines=Hello+There!+I'm+Simone+D'Assisi" alt="Typing SVG" /></a>
+  
+<h3 align="center">Pursuing a Master's Degree in Data Science & Machine Learning</h3>
 
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://www.unisa.it">
+          <img height="100" src="https://github.com/Smo17817/Smo17817/assets/127348760/77285d15-e181-4f92-a8ba-f421728e1b6f" alt="UnisaLogo" width="80"/>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://www.ntnu.edu">
+          <img height="80" alt="NTNU Logo" src="https://github.com/user-attachments/assets/584024d2-fef4-4693-8010-ef4fe9dd4699" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>Università degli Studi di Salerno</b> <img align="center" src="https://flagcdn.com/it.svg" width="20" alt="Italy"/>
+      </td>
+      <td align="center">
+        <b>Norwegian University of Science and Technology</b> <img align="center" src="https://flagcdn.com/no.svg" width="20" alt="Norway"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## About Me 🙋
 - 🎓 Computer Science Graduate.
