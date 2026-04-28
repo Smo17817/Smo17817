@@ -57,6 +57,7 @@
 <br>
 
 ## My Projects 🛠️
-📍 An AI-Based NPC in a 3D enviornment to help ADHD students complete tasks in an edugame called "La Bottega del Vasaio". <br>
-📍 An e-shop for an artist with Spring and Angular. <br>
+📍 **Prompting Recovery**: An open-source LLM-based system (using Gemma-2 and Llama-3) to generate synthetic patients and impute missing clinical data. 🏆 *2nd Best Paper Award at ISPR 2025!* <br>
+📍 **La Bottega del Vasaio**: A 3D educational environment built with Unity, featuring an AI-based NPC to support students with ADHD. 🏆 *1st Place at the 6th Int. Conf. on Bio-Engineering and Smart Technologies (Student Competition)!* <br>
+📍 An e-shop for an artist developed with Spring and Angular. <br>
 📍 An ML model to recognize Phishing URLs (university project). <br>
