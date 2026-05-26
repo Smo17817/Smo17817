@@ -59,5 +59,6 @@
 ## My Projects 🛠️
 📍 **Prompting Recovery**: An open-source LLM-based system (using Gemma-2 and Llama-3) to generate synthetic patients and impute missing clinical data. 🏆 *2nd Best Paper Award at ISPR 2025!* <br>
 📍 **La Bottega del Vasaio**: A 3D educational environment built with Unity, featuring an AI-based NPC to support students with ADHD. 🏆 *1st Place at the 6th Int. Conf. on Bio-Engineering and Smart Technologies (Student Competition)!* <br>
+📍 **Fit Tracker**: An intelligent, offline-first workout tracker built with Flutter and Dart. Features auto-loading sets, dynamic charts for PRs & total volume, and smart filtering (v1.0.0 released!). <br>
+📍 **3D Procedural Engine**: A graphics programming project focused on 3D environment development using Modern OpenGL and C++, featuring custom shaders and procedural terrain generation. <br>
 📍 An e-shop for an artist developed with Spring and Angular. <br>
-📍 An ML model to recognize Phishing URLs (university project). <br>
